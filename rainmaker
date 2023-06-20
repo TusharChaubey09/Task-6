@@ -11,8 +11,8 @@
 #define DEFAULT_Humidity 0
 
 // BLE Credentils
-const char *service_name = "PROV_12345";
-const char *pop = "1234567";
+const char *service_name = "Tush_23";
+const char *pop = "1345256";
 
 // GPIO
 static uint8_t gpio_reset = 0;
